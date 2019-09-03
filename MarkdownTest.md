@@ -1,4 +1,4 @@
-로고: !(https://www.shutterstock.com/ko/image-photo/chuncheon-south-korea-december-10-2017-776712496 "이미지제목")
+로고: (https://image.shutterstock.com/z/stock-photo-chuncheon-south-korea-december-hallym-university-logo-covered-with-snow-776712496.jpg "이미지제목")
 
 
 
