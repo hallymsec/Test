@@ -1,4 +1,4 @@
-로고: ![](https://image.shutterstock.com/z/stock-photo-chuncheon-south-korea-december-hallym-university-logo-covered-with-snow-776712496.jpg "한림의 겨울")
+로고: ![]https://github.com/hallymsec/Test/blob/master/A-3-1.jpg?raw=true "한림의 로고")
 
 
 
