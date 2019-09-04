@@ -1,1 +1,1 @@
-[](http://example.com "링크제목").
+[네이버](http://naver.com "").
