@@ -6,5 +6,5 @@ Lending Staked Tokens<sup id="각주1">[1](#footnote1)</sup> with No fees
 
 상관없음
 
-<b id="footnote1"><sup>1</sup></b> 컴퓨팅 자원 할당을 위해 시스템에 잠긴 비용을 뜻함.[↩](#각주1)<br>
+><b id="footnote1"><sup>1</sup></b> 컴퓨팅 자원 할당을 위해 시스템에 잠긴 비용을 뜻함.[↩](#각주1)<br>
 <b id="footnote2"><sup>2</sup></b> eoshub 신규계정 생성 비용 https://eoshub.io/account/create?locale=ko [↩](#각주2)<br>
