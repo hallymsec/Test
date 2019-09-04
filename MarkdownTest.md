@@ -12,4 +12,4 @@ Lending Staked Tokens<sup id="각주1">[1](#footnote1)</sup> with No fees
 
 단어<sup id="각주1">[1](#footnote1)</sup> 
 
-<b id="footnote1"><sup>1</sup></b> 단어의 정의.(#각주1)
+<b id="footnote1"><sup>1</sup></b> 단어의 정의.[](#각주1)
